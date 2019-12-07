@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 # Site Settings
 locale                   : "ko_KR.UTF-8"
 title                    : "JG_Hong 소프트웨어 놀이터"
