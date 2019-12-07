@@ -1,3 +1,9 @@
 theme: jekyll-theme-hacker
+# Site Settings
+locale                   : "ko_KR.UTF-8"
+title                    : "JG_Hong 소프트웨어 놀이터"
+title_separator          : "-"
+name                     : "홍준기"
+description              : "개인적인 일상과 소프트웨어의 내용을 다루는 소소한 공간입니다."
 url                      : "https://rlwns012.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
